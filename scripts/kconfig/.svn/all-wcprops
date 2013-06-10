@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/scripts/kconfig
+END
+zconf.gperf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/scripts/kconfig/zconf.gperf
+END
+lkc_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/scripts/kconfig/lkc_proto.h
+END
+zconf.hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/scripts/kconfig/zconf.hash.c
+END
+mconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/scripts/kconfig/mconf.c
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/scripts/kconfig/menu.c
+END
+images.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/scripts/kconfig/images.c
+END
+symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/scripts/kconfig/symbol.c
+END
+check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/scripts/kconfig/check.sh
+END
+zconf.y
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/scripts/kconfig/zconf.y
+END
+lex.zconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/scripts/kconfig/lex.zconf.c
+END
+POTFILES.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/scripts/kconfig/POTFILES.in
+END
+qconf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/scripts/kconfig/qconf.cc
+END
+qconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/scripts/kconfig/qconf.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/scripts/kconfig/util.c
+END
+lkc.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/scripts/kconfig/lkc.h
+END
+expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/scripts/kconfig/expr.c
+END
+kconfig_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/scripts/kconfig/kconfig_load.c
+END
+confdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/scripts/kconfig/confdata.c
+END
+expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/scripts/kconfig/expr.h
+END
+zconf.tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/scripts/kconfig/zconf.tab.c
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/scripts/kconfig/conf.c
+END
+gconf.glade
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/scripts/kconfig/gconf.glade
+END
+kxgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/scripts/kconfig/kxgettext.c
+END
+zconf.l
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/scripts/kconfig/zconf.l
+END
+gconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/scripts/kconfig/gconf.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/scripts/kconfig/Makefile
+END
